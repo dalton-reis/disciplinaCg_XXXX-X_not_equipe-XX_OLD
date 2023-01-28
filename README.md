@@ -23,6 +23,8 @@ Todos os trabalhos serão desenvolvidos em equipe (**máximo três alunos**) e d
 
 ## [Cronograma](cronograma.md "cronograma")  
 
+## [Equipe](equipe.md "Equipe")  
+
 ## [Unidade1](Unidade1 "Unidade 1")  
 
 ## [Unidade2](Unidade2 "Unidade 2")  
