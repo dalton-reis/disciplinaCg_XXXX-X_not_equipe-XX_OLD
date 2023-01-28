@@ -31,4 +31,4 @@ Todos os trabalhos serão desenvolvidos em equipe (**máximo três alunos**) e d
 
 ## [Unidade4](Unidade4 "Unidade 4")  
 
-## [VisEdu-CG](https://gcgfurb.github.io/yoda/ ""VisEdu-CG)
+## [VisEdu-CG](https://gcgfurb.github.io/yoda/ "VisEdu-CG")
