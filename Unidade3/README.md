@@ -17,7 +17,7 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 ## Download
 
 Nesta pasta tem um executável da atividade 3 que pode ser usado para ajudar a entender o enunciado desta atividade.  
-[Download](./Download "Download")  
+[CG-N3_Executavel](./CG-N3_Executavel/ "CG-N3_Executavel")  
 
 ## Dicas de código
 
