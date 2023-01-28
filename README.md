@@ -15,7 +15,7 @@ Lembre: cada questão deste trabalho deve ser separada em novas pastas e projeto
 
 Faça o seu trabalho, cópias receberão nota zero. O professor pode a qualquer momento questionar e avaliar o trabalho desenvolvido. O aluno deve demonstrar conhecimento do código implementado respondendo principalmente questões relacionadas ao conteúdo apresentado, e não somente saber "ler" o código desenvolvido.  
 
-O GitHub de cada equipe vai ser criado pelo professor após as definições das equipes. Então não esqueça de definir a sua equipe usando no AVA3, onde somente um aluno da equipe posta o **nome completo** dos integrantes e também os **usuários do GitHub**. Aconselhasse fortemente manter os mesmos integrantes que compõem a equipe até o final do semestre.  
+O GitHub de cada equipe vai ser criado pelo professor após as definições das equipes. Então não esqueça de definir a sua equipe usando o AVA3, onde somente um aluno da equipe posta o **nome completo** dos integrantes e também os **usuários do GitHub**. Aconselhasse fortemente manter os mesmos integrantes que compõem a equipe até o final do semestre.  
 
 Todos os trabalhos serão desenvolvidos em equipe (**máximo três alunos**) e devem ser postados no GitHub até a data definida no [cronograma](cronograma.md "cronograma").  
 
@@ -31,7 +31,4 @@ Todos os trabalhos serão desenvolvidos em equipe (**máximo três alunos**) e d
 
 ## [Unidade4](Unidade4 "Unidade 4")  
 
-## VisEdu-CG
-
-Ferramenta didática de Visualização de Material de Computação Gráfica  
-<https://gcgfurb.github.io/yoda/>
+## [VisEdu-CG](https://gcgfurb.github.io/yoda/ ""VisEdu-CG)
